@@ -51,7 +51,7 @@
     {
       "doctor": "Dr. John Doe",
       "date": "Mar 24 2021",
-      "start": "06:30 PM"",
+      "start": "06:30 PM",
       "patientName": "Hello",
       "phone": "01700000000",
       "visitReason": "Hello"
@@ -83,7 +83,7 @@
     {
       "doctor": "Dr. John Doe",
       "date": "Mar 31 2021",
-      "start": "06:30 PM"",
+      "start": "06:30 PM",
       "patientName": "Hello",
       "phone": "01700000000",
       "visitReason": "Hello"
